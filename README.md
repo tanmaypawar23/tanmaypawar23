@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am software Engineer 
+Final-year Information Technology student passionate about Full-Stack Web Development and Data Structures & Algorithms. I enjoy building scalable MERN applications, solving coding problems, and continuously learning new technologies. Open to software engineering and full-stack development opportunities.
 
 
 # 💻 Tech Stack:
